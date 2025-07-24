@@ -1,11 +1,4 @@
 # generator
 
-- Example User Inputs:
-
-- develop an app takes inputs of employee like name, address
-- inputs of student like name, rollNo, marks
-- form for employee with name, age, department
-- about product having name, price, stock
-- create customer form name, email, phone
-- schema for movie with title, director, rating
-- collect teacher data: name, subject, experience
+-H2 db console url http://localhost:8080/h2-console/
+-jdbc url jdbc:h2:mem:testdb
